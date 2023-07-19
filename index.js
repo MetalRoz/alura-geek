@@ -21,7 +21,7 @@ if (JSON.parse(localStorage.getItem("islog"))) {
   <nav class="navbar">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">
-        <img src="/img/logo.PNG" alt="Logo" width="160" height="50" class="d-inline-block align-text-top">
+        <img src="img/logo.png" alt="Logo" width="160" height="50" class="d-inline-block align-text-top">
       </a>
       <ul class="nav justify-content-end" style="margin-right: 60px">
       <button type="button" class="btn btn-outline-danger" onclick="logout()">Cerrar Sesión</button>
@@ -69,7 +69,7 @@ if (JSON.parse(localStorage.getItem("islog"))) {
   <nav class="navbar">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">
-        <img src="/img/logo.PNG" alt="Logo" width="160" height="50" class="d-inline-block align-text-top">
+        <img src="img/logo.png" alt="Logo" width="160" height="50" class="d-inline-block align-text-top">
       </a>
       <ul class="nav justify-content-end" style="margin-right: 60px">
       <a href="login.html">
